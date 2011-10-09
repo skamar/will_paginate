@@ -23,5 +23,5 @@ module WillPaginate
   extend PerPage
 
   # default number of items per page
-  self.per_page = 50
+  self.per_page = 100
 end
